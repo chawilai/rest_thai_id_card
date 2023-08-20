@@ -1,0 +1,4 @@
+/get_status
+/get_data
+/get_photo_byte
+/get_photo_json
